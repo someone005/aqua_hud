@@ -1,0 +1,113 @@
+body
+{
+    margin: 0px;
+    justify-content: 0px;
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+}
+.hud
+{
+    background-color: #000022;
+    width: 230px;
+    min-height: 120px;
+    max-height: 170px;
+    border-radius: 5px;
+    margin-top: 2%;
+    bottom: 0;
+    left: 0;
+    margin-left: 2.5%;
+    margin-bottom: 12%;
+    position: fixed;
+    transition-duration: 1s;
+}
+.sv
+{
+    width: 16px;
+    height: 16px;
+    fill: white;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+.w
+{
+    margin-left: 6.2%;
+}
+.g
+{
+    margin-left: 5.8%;
+}
+.h
+{
+    margin-left: 4.8%;
+
+}
+.pas
+{
+    width: 180px;
+    height: 10px;
+    margin-left: 17%;
+    margin-top: -5%;
+    background-color: grey;
+    border-radius: 10px;
+    z-index: 1;
+    margin-bottom: 5%;
+}
+.c1
+{
+    background-color: red;
+    width: 0%;
+    height: 10px;
+    border-radius: 10px;
+    transition-duration: 0.25s;
+}
+.c2
+{
+    background-color: lightgreen;
+    width: 0%;
+    height: 10px;
+    border-radius: 10px;
+    transition-duration: 0.25s;
+}
+.c3
+{
+    background-color: lightskyblue;
+    width: 0%;
+    height: 10px;
+    border-radius: 10px;
+    transition-duration: 0.25s;
+}
+.c4
+{
+    background-color: white;
+    width: 50%;
+    height: 10px;
+    border-radius: 10px;
+    transition-duration: 0.25s;
+}
+.c5
+{
+    background-color: lightskyblue;
+    width: 0%;
+    height: 10px;
+    border-radius: 10px;
+    transition-duration: 0.25s;
+}
+.c6
+{
+    background-color: darkblue;
+    width: 0%;
+    height: 10px;
+    border-radius: 10px;
+    transition-duration: 0.25s;
+}
+.ox
+{
+    display: none;
+    transition-duration: 0.5s;
+}
+.ar
+{
+    display: none;
+    transition-duration: 0.5s;
+}
