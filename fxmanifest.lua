@@ -1,9 +1,9 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Beniamin#0298'
-description 'Hud napisany przez Beniamin#0298 i sowka#5472'
-version '1.0.0'
+author 'someone#0005'
+description 'Hud napisany przez someone#0005 i sowka#5472'
+version '1.0.2'
 
 client_script "client.lua"
 
